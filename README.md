@@ -1,5 +1,5 @@
 # Discord Music Bot
-This is a discord music bot that uses the official discord API and discord-player. It has various slash commands that can help you to manage the music bot. 
+This is a discord music bot that uses the official discord API and discord-player. It has various slash commands that can help you to manage the music bot. The bot also responds with pleasing and helpful visual to help with providing good user experience.
 
 ## Installation
 1) Follow a guide to create a discord bot account (with adminstrator permissions) using the Discord Developer Platform
