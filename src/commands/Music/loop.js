@@ -43,13 +43,13 @@ module.exports = {
       enable_loop_song: {
         title: "Song Loop Mode Enabled!",
         description:
-          "The current song will be repeated endlessly!\nThe official API for this loop mode was not working as intended. So, I made a bootleg version of it.",
+          "The current song will be repeated endlessly!\nThe official API for this loop mode is not working as intended. A bootleg version was created to fix this.\n",
         tips: "You can end the loop with /loop disable",
       },
       enable_loop_queue: {
         title: "Queue Loop Mode Enabled!",
         description:
-          "The whole queue will be repeated endlessly!\nThe official API for this loop mode was not working as intended. So, I made a bootleg version of it.",
+          "The whole queue will be repeated endlessly!\nThe official API for this loop mode is not working as intended. A bootleg version was created to fix this.\n",
         tips: "You can end the loop with /loop disable",
       },
       enable_autoplay: {

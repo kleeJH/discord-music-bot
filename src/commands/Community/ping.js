@@ -5,7 +5,6 @@ module.exports = {
     .setName("ping")
     .setDescription("Check the bot's response time"),
   async execute(interaction, client) {
-    await interaction.deferReply();
     const reply = await interaction.fetchReply();
     const REPLY_PING = reply.createdTimestamp - interaction.createdTimestamp;
     const WS_PING = client.ws.ping;
